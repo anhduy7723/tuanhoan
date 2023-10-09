@@ -38,7 +38,7 @@ a:hover {
 body {
     width: 100vw;
     height: 100vh;
-    background-color: rgb(34, 34, 34);
+    background-color: rgba(126, 218, 133, 0.463);
     color: black !important;
     display: flex;
     justify-content: center;
