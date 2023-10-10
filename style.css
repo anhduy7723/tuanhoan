@@ -5,12 +5,14 @@
 /* Add the following CSS code to style the title */
 .title {
   text-align: center;
-  font-size: 24px;
   margin-bottom: 20px;
+}
+
+.title h1 {
+  font-size: 24px;
   font-weight: bold;
   color: white;
 }
-
 :root {
   /* Layout */
   --elementsize: 62px;
