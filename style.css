@@ -3,19 +3,21 @@
   margin: 0;
 }
 /* Add the following CSS code to style the title */
-.title {
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
-.title h1 {
+.title {
   font-size: 24px;
   font-weight: bold;
   color: white;
+  margin-bottom: 20px;
 }
-.btn-page {
-  display: block;
-  margin: 20px auto;
+ margin: 20px auto;
 }
 :root {
   /* Layout */
