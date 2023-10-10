@@ -260,7 +260,7 @@ th {
 
 .table-category {
   position: absolute;
-  top: 230px;
+  top: 200px;
   left: 45%;
   transform: translate(-50%, 0);
   margin-top: 5%;
@@ -284,7 +284,6 @@ th {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  top:10px;
   list-style: none;
 }
 
