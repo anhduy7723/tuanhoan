@@ -2,6 +2,14 @@
   padding: 0;
   margin: 0;
 }
+/* Add the following CSS code to style the title */
+.title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: white;
+}
 
 :root {
   /* Layout */
