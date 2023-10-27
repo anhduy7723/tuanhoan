@@ -4,7 +4,7 @@ const categoryColors = {
   "bazo":"#66FF25",
   "oxit":"#C57D1E",
   "axit":"#C04839",
-  "salt":"#FFFFFF"
+  "salt":"#A9A9A9"
   // Add more categories and colors as needed
 };
 
